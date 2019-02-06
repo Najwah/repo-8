@@ -4,4 +4,7 @@ WO APP
    - Mockup Cathering
    - UI Cathering
 2. Modul Hiburan
+   - API Hiburan
+   - Mockup Hiburan
+   - UI Hiburan
 3. Modul Property
